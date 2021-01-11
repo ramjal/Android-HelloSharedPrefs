@@ -1,0 +1,50 @@
+<resources>
+    <!-- Title of app -->
+    <string name="app_name">Hello Shared Prefs</string>
+
+    <!-- Button label for blue button -->
+    <string name="blue_button">Blue</string>
+
+    <!-- Button label for green button -->
+    <string name="green_button">Green</string>
+
+    <!-- Button label for red button -->
+    <string name="red_button">Red</string>
+
+    <!-- Button label for black button -->
+    <string name="black_button">Black</string>
+
+    <!-- Default string for count textview -->
+    <string name="default_count">0</string>
+
+    <!-- Button label for Count button -->
+    <string name="count_button">Count</string>
+
+    <!-- Button label for Reset button -->
+    <string name="reset_button">Reset</string>
+
+    <!-- Button label for Setting button -->
+    <string name="setting_button">Setting</string>
+
+    <!-- Button label for Save button -->
+    <string name="save_button">Save</string>
+
+    <string-array name="my_colors">
+        <item>#000786</item>
+        <item>#AA00FF</item>
+        <item>#0187FF</item>
+        <item>#01FF86</item>
+        <item>#AA0086</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>black</item>
+        <item>yellow</item>
+        <item>aqua</item>
+        <item>silver</item>
+        <item>#CC0000</item>
+        <item>#0099CC</item>
+        <item>#669900</item>
+        <item>#E0E0E0</item>
+    </string-array>
+
+</resources>
